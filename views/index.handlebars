@@ -1,4 +1,4 @@
-<h1>Your food plan for the day!</h1>
+<h3>Your food plan for the day:</h3>
 
 
 <h2>Add a food </h2>
@@ -9,18 +9,31 @@
     <input type="text" id="burg" name="name">
   </div>
 
-  <div class="form-group">
-    <label for="devoured">Devoured?</label><br>
-    <input type="radio" name="devoured" value="1" checked> Devoured <br>
-    <input type="radio" name="devoured" value="0"> Not eaten
-  </div>
+  {{!-- <div class="form-group">
+    <label for="devoured">Eaten?</label><br>
+    <input type="radio" name="devoured" value="1" checked> Yes <br>
+    <input type="radio" name="devoured" value="0"> No
+  </div> --}}
+
+
+<div>
+ <input type="radio" id="yescheck"
+     name="devoured" value="1" checked>
+    <label for="eaten">Yes</label>
+
+    <input type="radio" id="nocheck"
+     name="devoured" value="0">
+    <label for="noteaten">No</label>
+</div>
+
+
 
   <button type="submit">Add</button>
 </form>
 
 <h2>Foods that you can possibly eat!</h2>
 
-<ul>
+<ul class="foodoptions">
   {{#each burgers}}
     {{#unless devoured}}
       {{> burgers/burger-block devoured=true}}
@@ -30,7 +43,7 @@
 
 <h2>Foods that you already ate!</h2>
 
-<ul>
+<ul  class="foodoptions">
   {{#each burgers}}
     {{#if devoured}}
       {{> burgers/burger-block devoured=false}}

@@ -1,7 +1,7 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #2b2723;
+  background: #c4ab93;
   width: 300px;
 }
 
@@ -21,11 +21,18 @@ li {
 
 
 html{
-  background-image:url(https://images.unsplash.com/photo-1550674640-edeb406d94bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80);
+  /* background-image:url(https://images.unsplash.com/photo-1550674640-edeb406d94bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80); */
+  background-image:url(https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80);
+text-align: center;
 }
 
 * {
-  color:red;
+  color:#222 ; 
   font-size: 28px;
   font-weight: bold;
+}
+
+
+.foodoptions{
+  align-content: center;
 }
