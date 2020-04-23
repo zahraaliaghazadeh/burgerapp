@@ -36,13 +36,13 @@ text-align: center;
 }
 
 
-.foodoptions{
+/* .foodoptions{ */
   /* align-content: center;
   align-self: center; */
   /* margin: 0 auto;
   text-align: center;
   margin-left: 610px; */
-}
+/* } */
 
 #yescheck{
   display: none;
