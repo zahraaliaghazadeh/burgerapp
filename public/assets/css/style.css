@@ -43,3 +43,10 @@ text-align: center;
   text-align: center;
   margin-left: 610px; */
 }
+
+#yescheck{
+  display: none;
+}
+#nocheck{
+  display: none;
+}
