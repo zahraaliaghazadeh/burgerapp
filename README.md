@@ -40,6 +40,9 @@ In order to install, first download the files. Then you would open terminal and 
 
 ## Usage 
 
+![sample use](/public/assets/images/gif1.gif)
+
+
 To use this application, you can [click here](). _deploying-in-process_
 
 
