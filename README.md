@@ -70,7 +70,7 @@ Project is:  _in progress_
 ## License
 
 MIT license 
-Copyright © 2020 Zahra Ali Aghazadeh, Shaidee, Brett , and JJ
+Copyright © 2020 Zahra Ali Aghazadeh
 
 
 
