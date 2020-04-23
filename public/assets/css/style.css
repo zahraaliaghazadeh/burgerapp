@@ -1,8 +1,11 @@
 li {
   padding: 5px;
-  margin: 5px;
-  background: #c4ab93;
+  /* margin: 5px; */
+  background: #ce809e;
   width: 300px;
+  align-self: center;
+  margin: 0 auto;
+
 }
 
 .label {
@@ -34,5 +37,9 @@ text-align: center;
 
 
 .foodoptions{
-  align-content: center;
+  /* align-content: center;
+  align-self: center; */
+  /* margin: 0 auto;
+  text-align: center;
+  margin-left: 610px; */
 }
