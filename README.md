@@ -1,5 +1,5 @@
 
-# [burgerapp](https://)
+# [burgerapp](https://burgerappyalda.herokuapp.com/)
 
 ## A meal planner application
 
@@ -43,7 +43,7 @@ In order to install, first download the files. Then you would open terminal and 
 ![sample use](/public/assets/images/gif1.gif)
 
 
-To use this application, you can [click here](). _deploying-in-process_
+To use this application, you can [click here](https://burgerappyalda.herokuapp.com/). _deploying-in-process_
 
 
 ## Credits
@@ -62,7 +62,7 @@ Initial readme instructions provided by [Triologyed](https://www.trilogyed.com/)
 
 
 To-do list:
-* This application must be deployed with heroku.
+
 * Improvement to be done 1: UI desing can be improved.
 
 
