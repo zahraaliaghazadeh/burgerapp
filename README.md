@@ -40,7 +40,7 @@ In order to install, first download the files. Then you would open terminal and 
 
 ## Usage 
 
-![sample use](/public/assets/images/gif1.gif)
+![sample use](/public/assets/images/gif2.gif)
 
 
 To use this application, you can [click here](https://burgerappyalda.herokuapp.com/). 
